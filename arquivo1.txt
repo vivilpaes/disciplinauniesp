@@ -1,4 +1,3 @@
 Faculdade Uniesp
 Curso: Ciências da Computação/sistemas para internet
-Victoria Maria Paes de Medeiros Lira Nogueira
-Tópicos Essenciais para Programação
+Respondendo a lista de exercício GitHub
